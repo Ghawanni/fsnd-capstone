@@ -1,5 +1,5 @@
 #!/bin/sh
-export AUTH0_DOMAIN="ghawanni-fsnd-capstone.us.auth0.com"
+export AUTH0_DOMAIN=""ghawanni-fsnd-capstone.us.auth0.com
 export ALGORITHMS="RS256"
 export API_AUDIENCE="users"
 
