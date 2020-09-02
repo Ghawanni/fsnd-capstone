@@ -200,7 +200,7 @@ def create_app(test_config=None):
 					Movies.update(queued_movie)
 					return jsonify({
 							"success": True,
-							"actor": [queued_movie.format()]
+							"movie": [queued_movie.format()]
 							})
 
 
